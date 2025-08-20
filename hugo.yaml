@@ -1,0 +1,17 @@
+baseURL: https://arbigaus.dev/
+languageCode: en-us
+title: Arbigaus.dev
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Mobile Software Engineer (Swift | iOS)
+    Content: "I love ☕️ and code!!\n*I'm based in Brazil"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/arbigaus"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/arbigaus/"
+
+  ShowCodeCopyButtons: true
