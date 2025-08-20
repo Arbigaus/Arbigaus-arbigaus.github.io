@@ -15,3 +15,7 @@ params:
       url: "https://www.linkedin.com/in/arbigaus/"
 
   ShowCodeCopyButtons: true
+
+caches:
+  images:
+    dir: :cacheDir/images
