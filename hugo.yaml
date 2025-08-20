@@ -6,7 +6,7 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: Mobile Software Engineer (Swift | iOS)
-    Content: "I love ☕️ and code!!\n*I'm based in Brazil"
+    Content: "I love ☕️ and code!! \n* I'm based in Brazil"
 
   socialIcons: # optional
     - name: "github"
